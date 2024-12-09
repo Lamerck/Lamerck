@@ -1,14 +1,14 @@
 👋 Hi, I’m @Lamerck.
-I’m passionate about using data to solve real-world problems particularly it the fields of analytics and data science.
-I’m currently learning 🌱 python and ML to add them into my data career toolkit.
+I’m passionate about using data to solve real-world problems, particularly in the fields of analytics and data science.
+Currently, I am building  ML models for fun
 
-At the moment, I’m looking to collaborate 🤝 on interesting analysis projects that have real world impact.
+I’m looking to collaborate 🤝 on interesting analysis projects that have real world impact.
 📫 Check out these vizzes on [Tableau](https://public.tableau.com/app/profile/lamerck.kavuma/vizzes) for my most recent projects.
 
 ```SQL
 Let's Connect
 ```
-- ⚡ Fun fact: I am a whiz with R and SQL
+- ⚡ Fun fact: I am a whiz with R and Python
 
 
 <!---
